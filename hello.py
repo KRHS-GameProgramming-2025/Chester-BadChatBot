@@ -52,3 +52,4 @@ elif poke == "Gardavoir" or "L":
     print(". . .")
 else :
     print(poke + "is an amazing pokemon!")
+input()
